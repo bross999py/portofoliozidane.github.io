@@ -1,0 +1,131 @@
+body {
+    margin: auto;
+    padding: 0px;
+    font-size: 17px;
+    background: url('anime.jpg');
+    background-size: cover;
+
+
+}
+.about {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.wrapper {
+    width: 1200px;
+    margin: auto;
+}
+nav > .wrapper {
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid;
+    background-color: grey;
+    border-style: solid;
+
+}
+.menu {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+    
+    
+}
+nav .men li a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(0, 0, 0);
+  list-style: none;
+
+}
+.menu .men {
+    display: flex;
+    list-style-type: none;
+    background-color:gray;
+    gap: 1rem;
+
+    
+}
+nav .sos li a {
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#foto {
+  margin: 0px;
+}
+
+.teksgw {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  font-display: block;
+}
+.fotoo {
+  width: 150px;
+  border-image: round;
+}
+.pemerogaman {
+  border: 3px;
+  border-radius: 15px;
+  border-color: crimson;
+  border-style: groove;
+  border-width: 10px;
+  background-color: rgb(230, 117, 117);
+}
+.bahasa {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 37px;
+}
+.py {
+  font-size: 32px;
+}
+.borderprj {
+  border: 3px solid;
+  border-color: goldenrod;
+  border-style: groove;
+  border-radius: 20px;
+  border-width: 10px;
+  background-color: rgb(242, 205, 113);
+}
+
+.project {
+  font-size: 37px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.harian {
+  float: 14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+.gesture {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+
+}
+.gest {
+  border-image: stretch;
+  border-image-width: 30px;
+  shape-image-threshold: initial;
+}
+.sosmed {
+  margin: auto;
+  width: 1024px;
+  border: 3px solid;
+  background-color: burlywood;
+}
+.ig {
+  list-style-type: none;
+  color: red;
+}
+.yt {
+  list-style-type: none;
+  color: red;
+}
+.kontak {
+  margin: auto;
+  width: 1300;
+  border: 3px solid;
+  background-color: gray;
+  border-radius: 5px;
+}
